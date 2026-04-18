@@ -1,4 +1,4 @@
-# 📊Retail-Store-Transactions-Analysis-
+# 📊Retail-Store-Transaction-Analysis-
 ## 💹Tools Used
 - Microsoft Excel
 ## 📈Project Overview
