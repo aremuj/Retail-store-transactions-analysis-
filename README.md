@@ -10,5 +10,5 @@
 ## 🔗Preview
  https://github.com/aremuj/Retail-store-transactions-analysis-
 
- Click the link above to see a preview of the final dashboard.
+ Click the link above to see the complete project and the final dashboard.
  
